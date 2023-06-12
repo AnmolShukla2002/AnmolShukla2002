@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolshukla2002&label=Profile%20views&color=0e75b6&style=flat" alt="anmolshukla2002" /> </p>
 
-- 🔭 I’m currently working on **Backend Web Development.**
+- 🔭 I’m currently working on **Web 3.0 and Blockchain Technology.**
 
-- 🌱 I’m currently learning **MongoDB.**
+- 🌱 I’m currently learning **Solidity.**
 
 - 👯 I’m looking to collaborate on **Coding Platforms.**
 

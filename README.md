@@ -1,12 +1,12 @@
 <h1 align="center">Ciao 👋, I'm Anmol Shukla</h1>
-<h3 align="center">A passionate Software Engineer(to-be) from India.</h3>
+<h3 align="center">From Pencils to Prototypes, Engineering My Way Through!</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e475qv3mueql9dqiz46cqy8sleb8mih8ehe12t82e1y&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolshukla2002&label=Profile%20views&color=0e75b6&style=flat" alt="anmolshukla2002" /> </p>
 
-- 🔭 I’m currently working on **Web 3.0 and Blockchain Technology.**
+- 🔭 I’m currently working on **Linux OS and Google Cloud Platform.**
 
-- 🌱 I’m currently learning **Solidity.**
+- 🌱 I’m currently exploring **DevOps.**
 
 - 👯 I’m looking to collaborate on **Coding Platforms.**
 

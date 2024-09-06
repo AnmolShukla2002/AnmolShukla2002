@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolshukla2002&label=Profile%20views&color=0e75b6&style=flat" alt="anmolshukla2002" /> </p>
 
-- 🔭 I’m currently working on **Linux OS and Google Cloud Platform.**
+- 🔭 I’m currently working on **AWS & ELK Stack.**
 
 - 🌱 I’m currently exploring **DevOps.**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anmol.28422@gmail.com**
 
-- ⚡ Fun fact **I am absolutely stunning and funny.**
+- ⚡ Fun fact **I create problems for myself and solve for others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

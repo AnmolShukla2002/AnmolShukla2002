@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolshukla2002&label=Profile%20views&color=0e75b6&style=flat" alt="anmolshukla2002" /> </p>
 
-- 🔭 I’m currently working on **AWS & ELK Stack.**
+- 🔭 I’m currently working on **GenAI & MCP Toolbox for multi-database support.**
 
-- 🌱 I’m currently exploring **DevOps.**
+- 🌱 I’m currently exploring **GenAI, AI/ML etc.**
 
-- 👯 I’m looking to collaborate on **Coding Platforms.**
+- 👯 I’m looking to collaborate on **buliding scalable platforms and solving real-life problems.**
 
 - 📫 How to reach me **anmol.28422@gmail.com**
 
